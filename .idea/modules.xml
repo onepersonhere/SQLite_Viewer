@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite_Viewer1.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite_Viewer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLite Viewer/task/SQLite_Viewer1.SQLite_Viewer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/SQLite_Viewer1.util.test.iml" />
+    </modules>
+  </component>
+</project>
